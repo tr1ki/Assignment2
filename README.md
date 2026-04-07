@@ -1,7 +1,7 @@
 # Banking System (Console)
 
-Name: Viktoriya Zalesskaya  
-Group: (your group)
+Name: Balakarev Sergey
+Group: IT-2501(SE-2404)
 
 ## Brief Description
 This project is a simple console-based banking system. It allows users to create accounts, perform basic financial operations, and manage requests.
